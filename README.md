@@ -1,1 +1,1 @@
-# remind-a-friend
+# friendly-reminder 
