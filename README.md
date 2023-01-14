@@ -7,6 +7,3 @@ Make sure to have the required libraries installed the correction version of pyt
 * Install libraries: Twilio, Schedule 
 * Create an account on Twilio to complete the Twilio credential file. This file must be completed for the code to run. 
 
-# Contribution 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
